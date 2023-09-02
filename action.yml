@@ -1,0 +1,8 @@
+name: Summarize Release
+description: Show implementations for Gradle module releases using Kotlin and Groovy
+branding:
+  icon: box
+  color: orange
+runs:
+  using: node16
+  main: dist/main.js
